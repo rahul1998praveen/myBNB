@@ -1,0 +1,9 @@
+1 0 100 William Stillorgan 1 2
+1 1 100 Aayan Dundrum 1 2
+1 2 100 Nikolaj PortLaoise 1 2
+2 3 200 Parede Waltersland 20 1
+2 4 200 Chan Churchtown 20 1
+2 5 200 Lorrenzo Dundrum 20 1
+3 6 300 Rahul Clarrisons 30 20
+3 7 300 James Churchtown 30 20
+3 8 300 Figroll Dundalk 30 20
